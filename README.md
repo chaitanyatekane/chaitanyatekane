@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Chaitanya
  
-### Second Year Computer Science Engineering Student 
+### Third Year Computer Science Engineering Student 
 - 🌱 I’m currently exploring Web Development 
 
 
