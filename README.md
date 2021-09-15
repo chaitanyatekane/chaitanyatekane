@@ -1,6 +1,6 @@
 ## Hi, I am Chaitanya! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
 
-I am Chaitanya Tekane, currently pursuing my b.tech majoring in computer science from [Sanjivani College of Engineering, India](https://www.sanjivanicoe.org.in/). I am good at developing web applications. Likes to implement the learning into projects and also believe in showcasing skills in public which helps me in getting connected with like-minded learners. Also, have strong problem solving skills and love to solve algorithmic problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here :-
+<!-- I am Chaitanya Tekane, currently pursuing my b.tech majoring in computer science from [Sanjivani College of Engineering, India](https://www.sanjivanicoe.org.in/). I am good at developing web applications. Likes to implement the learning into projects and also believe in showcasing skills in public which helps me in getting connected with like-minded learners. Also, have strong problem solving skills and love to solve algorithmic problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here :-
 
 <a href = "mailto: chaitanyatekne5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/chaitanyatekane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -66,3 +66,4 @@ I am Chaitanya Tekane, currently pursuing my b.tech majoring in computer science
 <br>
 
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyatekane&hide=issues&show_icons=true)
+-->
