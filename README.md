@@ -1,4 +1,4 @@
-## Hi, I am Chaitanya! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">
+## Hi, I am Chaitanya! Thank you for reaching out to my profile! 
 
 <!-- I am Chaitanya Tekane, currently pursuing my b.tech majoring in computer science from [Sanjivani College of Engineering, India](https://www.sanjivanicoe.org.in/). I am good at developing web applications. Likes to implement the learning into projects and also believe in showcasing skills in public which helps me in getting connected with like-minded learners. Also, have strong problem solving skills and love to solve algorithmic problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here :-
 
